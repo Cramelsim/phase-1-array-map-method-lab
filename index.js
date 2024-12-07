@@ -23,4 +23,4 @@ function titleCased() {
 }
 
 console.log(titleCased());
-console.log(tutorials);
+
